@@ -4,10 +4,7 @@ import styled from 'styled-components';
 
 const Container = styled.div`
   font-family: 'Inter', sans-serif;
-  //font-size: 48px;
-  //width: 80%;
   margin: 0 auto;
-  //display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -19,7 +16,7 @@ const Title = styled.h1`
   font-weight:700 ;
 `;
 
-const SubTitle = styled.h2`
+const SubTitle = styled.h3`
 font-size: 24px;
 font-weight: 400 ;
 `
